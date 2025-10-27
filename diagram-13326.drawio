@@ -1,0 +1,43 @@
+<mxfile host="embed.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="some-id">
+    <mxGraphModel dx="772" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="shape=rectangle;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="760" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="line;strokeWidth=1;direction=south;html=1;strokeColor=#000000;" parent="2" vertex="1">
+          <mxGeometry y="40" width="760" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Login" style="edgeStyle=none;endArrow=classic;html=1;rounded=0;fontSize=14;align=center;verticalAlign=bottom;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="2" source="5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.95999999999998" y="139.99818181818188" as="sourcePoint" />
+            <mxPoint x="510.0316630210573" y="145.90890143229677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="0 Level DFD - Context Level" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0050EF;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="270" y="45" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Hospital Staff" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;gradientColor=#CCCCCC;fillColor=#FFFFFF;strokeColor=#666666;gradientDirection=south;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="120" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Hospital Management&lt;br&gt;System" style="ellipse;whiteSpace=wrap;html=1;shadow=1;gradientColor=#CCCCCC;fillColor=#FFFFFF;strokeColor=#666666;gradientDirection=south;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="540" y="145" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Response" style="edgeStyle=none;endArrow=classic;html=1;rounded=0;fontSize=14;align=center;verticalAlign=top;" parent="1" source="6" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="DFD 0 Level – Healthcare System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="220" y="360" width="400" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
